@@ -1,0 +1,11 @@
+install.packages("topicmodels")
+install.packages("tidytext")
+install.packages("readtext")
+install.packages("tidyverse")
+library(topicmodels)
+library(tidytext)
+library(readtext)
+library(tidyverse)
+
+file_paths <- system.file("Cistercianchartularies/")
+cisttexts <- readtext(paste("Cistercianchartularies/*txt")) %>% as_tibble()

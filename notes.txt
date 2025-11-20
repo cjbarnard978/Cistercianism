@@ -6,4 +6,7 @@ Trying to get it to remove all page indications
     seems to be struggling: might try 
     "remove all .png indicators from the .txt file" next
 Having it save a backup and add it to .gitignore JUST in castle
-
+R thinks the file doesn't exist in my workspace? 
+It's not in an installed package but at the root of the workspace-
+Changed to this: cisttexts <- readtext("chartularyofcist00cist_bw/*.txt") %>% as_tibble() 
+Needed to be in a FOLDER, not just a file. 
