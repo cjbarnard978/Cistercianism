@@ -5,5 +5,5 @@ Error message: filenotfound
 Trying to get it to remove all page indications
     seems to be struggling: might try 
     "remove all .png indicators from the .txt file" next
-    
+Having it save a backup and add it to .gitignore JUST in castle
 

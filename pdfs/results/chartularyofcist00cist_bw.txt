@@ -1,24 +1,5 @@
 OCR results for chartularyofcist00cist_bw.pdf
 
---- chartularyofcist00cist_bw_page1.png ---
-
-
---- chartularyofcist00cist_bw_page2.png ---
-
-
---- chartularyofcist00cist_bw_page3.png ---
-
-
---- chartularyofcist00cist_bw_page4.png ---
-
-
---- chartularyofcist00cist_bw_page5.png ---
-
-
---- chartularyofcist00cist_bw_page6.png ---
-
-
---- chartularyofcist00cist_bw_page7.png ---
 CHARTULARY
 
 OF THE
@@ -26,10 +7,7 @@ OF THE
 CISTERCIAN ABBEY OF COLDSTREAM
 
 
---- chartularyofcist00cist_bw_page8.png ---
 
-
---- chartularyofcist00cist_bw_page9.png ---
 CHARTULARY
 
 oF THE
@@ -62,7 +40,7 @@ PRINTED FOR THE GRAMPIAN CLUB
 1879
 
 
---- chartularyofcist00cist_bw_page10.png ---
+
 EDINBURGH
 'RD BY M'FARLANE AND ERSKINE,
 
@@ -70,7 +48,7 @@ ST JAMES SQUARE.
 
 
 
---- chartularyofcist00cist_bw_page11.png ---
+
 CONTENTS.
 
 ——_
@@ -100,7 +78,7 @@ V. ELECTION OF PRIORESS OF COLDSTREAM, —. . . 83
 INDEX, . : : : : : : : : . 88
 
 
---- chartularyofcist00cist_bw_page12.png ---
+
 Page 1, line 7 from foot, for
 
 9
@@ -186,7 +164,7 @@ read ‘* Stater.””
 insert  meum.”
 
 
---- chartularyofcist00cist_bw_page13.png ---
+
 PREFACE
 
 Tne order of Cistercian monks, founded by Robert,
@@ -214,7 +192,7 @@ by the Rev, J. Stevenson, 1834, p, 122).
 
 
 
---- chartularyofcist00cist_bw_page14.png ---
+
 vill PREFACE,
 
 Durham, is presented in the accompanying en-
@@ -246,7 +224,7 @@ on which the conyent stood.
 
 
 
---- chartularyofcist00cist_bw_page15.png ---
+
 PRE
 
 1x
@@ -283,7 +261,7 @@ Hirsel is named in the older form of Herishille.
 1 Account of Certain Parishes, 1627, published by the Maitland Club,
 
 
---- chartularyofcist00cist_bw_page16.png ---
+
 x PREE.
 
 UE.
@@ -321,7 +299,7 @@ nection with the lands of Scaithemor, situated to the
 north of Coldstream, were made to the sisters by the
 
 
---- chartularyofcist00cist_bw_page17.png ---
+
 PREFACE, xi
 
 family of Norman of Leinhal. First, Richard, son of
@@ -359,7 +337,7 @@ the name of Home. To the nuns William was a
 hada second wife named Cristina,
 
 
---- chartularyofcist00cist_bw_page18.png ---
+
 xil PREFACE.
 
 liberal benefactor. He confirmed to them the church
@@ -396,7 +374,7 @@ Sir Robert of Polwarth to the church of Kelso.’
 
 
 
---- chartularyofcist00cist_bw_page19.png ---
+
 PREFACE. niti
 
 On the death of Sir Patrick Edgar, Mariota, his
@@ -434,7 +412,7 @@ estimated at the annual value of 100 shillings ; and
 son, vol. i., p. 203.
 
 
---- chartularyofcist00cist_bw_page20.png ---
+
 xiv PREFACE.
 
 for injury to the buildings and utensils, 100 shillings.
@@ -473,7 +451,7 @@ Evidently about the same period an undated memo-
 1 Historical Documents, Scotland, 1870, vol. ii, p. 173.
 
 
---- chartularyofcist00cist_bw_page21.png ---
+
 PREFACE. xv
 
 rial was, by the prioress and nuns, presented to
@@ -509,7 +487,7 @@ in the chartulary were members of the family of Haul-
 tun, probably Hutton. Ranulf de Haultun granted
 
 
---- chartularyofcist00cist_bw_page22.png ---
+
 xvi PREFACE.
 
 to the convent seven acres of land, described in the
@@ -546,7 +524,7 @@ burgh (31).
 To a charter of confirmation by Earl Gospatric
 
 
---- chartularyofcist00cist_bw_page23.png ---
+
 PREFACE. xvii
 
 (11), one of the witnesses is Ernulf de Suinton.' By
@@ -585,7 +563,7 @@ b
 
 
 
---- chartularyofcist00cist_bw_page24.png ---
+
 xviii PREFACE.
 
 To the convent Thomas of Rauchburn granted
@@ -623,7 +601,7 @@ is no further notice of the convent till 1472, when on
 1 Rotuli Scotie, i, 255, 256.
 
 
---- chartularyofcist00cist_bw_page25.png ---
+
 PREFACE, xix,
 
 the 6th June of that year James HI. confirmed a
@@ -664,7 +642,7 @@ from them, by Sir John Marjoribanks, Bart. Many of the convent lands
 now form part of Lees estate.
 
 
---- chartularyofcist00cist_bw_page26.png ---
+
 XX PREFACE.
 
 July 1510, a lease of the lands of Hirsel and Graden,
@@ -701,7 +679,7 @@ hope that her brother, Henry VIIL, would levy war
 1 Drummond’s Noble British Families, ii, p. 20.
 
 
---- chartularyofcist00cist_bw_page27.png ---
+
 PREFACE. XL
 
 on the regent, so as to compel him to restore her son
@@ -743,7 +721,7 @@ that is next the crowne and oute of the keping of his owne
 Ss grace,
 
 
---- chartularyofcist00cist_bw_page28.png ---
+
 Xxii
 
 subiects. Madame, I beseche your grace too bee contente that
@@ -788,7 +766,7 @@ and ferme holdis, with thair goodes and catalls, into our espicall
 1 From the original in the British Museum, Cotton MS., Calig., B. iii. fol. 1.
 
 
---- chartularyofcist00cist_bw_page29.png ---
+
 PREFACE. xxiii
 
 protection, tuycion, and saufegarde. Wherefore we woll and
@@ -830,7 +808,7 @@ may be wntriblyt, and to haf na skay’ be Inglismen, for yai
 ' Public Record Office, State Paper, Henry VILL, No, 2912.
 
 
---- chartularyofcist00cist_bw_page30.png ---
+
 xxiv PREFACE.
 
 yat are gud sernandis and frendis to me thinkis yaj suld haif
@@ -874,7 +852,7 @@ rode.” They and the Scottis have made no depredations lately],
 
 
 
---- chartularyofcist00cist_bw_page31.png ---
+
 PREFACE. XXV
 
 “which is a great marvyle, and, as I here saye, have not oftyn
@@ -921,7 +899,7 @@ sayved
 
 
 
---- chartularyofcist00cist_bw_page32.png ---
+
 XXxvi PREFACE.
 
 your vryting from James Rodarford, the berar, and onderstandyth
@@ -967,7 +945,7 @@ y' she durst not com forth of hyr dors; and I askyd hyr be
 
 
 
---- chartularyofcist00cist_bw_page33.png ---
+
 PREFACE. xxvii
 
 whome ? and she sayde be theym yt eury day was bessy vyth
@@ -1010,7 +988,7 @@ lieutenants to resume their confidence in herself.
 1 From original in Public Record Office.
 
 
---- chartularyofcist00cist_bw_page34.png ---
+
 NXViii PREFACE.
 
 For the Prine
@@ -1060,7 +1038,7 @@ lands of Iirsill, and the third part of the lands of Gradane,
 
 
 
---- chartularyofcist00cist_bw_page35.png ---
+
 PREFACE, XXIN
 
 with its fishing, near said monastery, upon the marches of
@@ -1104,7 +1082,7 @@ January 1537-8, as appears by the minute of election
 
 
 
---- chartularyofcist00cist_bw_page36.png ---
+
 XXX PREFACE.
 
 of her successor, dated 23d February following.
@@ -1146,7 +1124,7 @@ with the Divine inspiration and enlightened by the grace of the
 Holy Spirit, as they firmly believe, suddenly and unanimously,
 
 
---- chartularyofcist00cist_bw_page37.png ---
+
 PREFACE, XXXL
 
 without concert or nomination preceding, but only having God
@@ -1189,7 +1167,7 @@ seal, and record the whole proceedings by a notary-public on
 the date above written,” ete.
 
 
---- chartularyofcist00cist_bw_page38.png ---
+
 xxxii PREFACE.
 
 Dame Janet Hoppringill’s election was doubtless
@@ -1232,7 +1210,7 @@ In the “Book of the Assumption of Benefices,”
 David Laing to the Society of Antiquaries of Scotland,
 
 
---- chartularyofcist00cist_bw_page39.png ---
+
 PREFACE. xxxiii
 
 preserved in the Advocates Library (31, 3, 15), the
@@ -1270,7 +1248,7 @@ Society nearly half a century ago recommended
 c
 
 
---- chartularyofcist00cist_bw_page40.png ---
+
 Xxxiv PREFACE,
 
 that it should be included in their series. This was
@@ -1296,7 +1274,7 @@ cent” what is evidently the curled tail of a bee or
 scorpion. Laing’s impression also differs from this
 
 
---- chartularyofcist00cist_bw_page41.png ---
+
 PREFACE. XXXV
 
 seal in having the fish turned to the dexter, and
@@ -1331,10 +1309,10 @@ May 1
 
 
 
---- chartularyofcist00cist_bw_page42.png ---
 
 
---- chartularyofcist00cist_bw_page43.png ---
+
+
 CARTE
 MONIALIUM DE CALDSTRE
 
@@ -1385,7 +1363,7 @@ A
 Fol. 1.
 
 
---- chartularyofcist00cist_bw_page44.png ---
+
 Vol, 2.
 
 2 CARTE MONIALIUM DE CALDSTREM.
@@ -1446,7 +1424,7 @@ honorifice sient aliqua elimosina alicubi in toto regno Scocie
 liberius quiecius plenius et plenarius ac honorificencius tenetur
 
 
---- chartularyofcist00cist_bw_page45.png ---
+
 CARTE MONIALIUM DE CALDSTREM, 3
 
 et possidetur Ego uero Patricius et heredes mei. dictam terram
@@ -1491,7 +1469,7 @@ alii
 Fol, 3.
 
 
---- chartularyofcist00cist_bw_page46.png ---
+
 Fol. 4.
 
 4 CARTE MONIAL!
@@ -1557,7 +1535,7 @@ s Comitis Pate
 corpor et pro audna eis .et pro anima Comi-
 
 
---- chartularyofcist00cist_bw_page47.png ---
+
 CARTE MONIALIUM DE CALDSTREM.
 
 tisse Ade sponse eius.et pro anima patris et matris mice. et
@@ -1625,7 +1603,7 @@ i salutem .
 
 
 
---- chartularyofcist00cist_bw_page48.png ---
+
 Fol. 6.
 
 Fol. 6,
@@ -1694,7 +1672,7 @@ Letham . G. Fresell . Haldano Dapifero . KR. Bloet . 2. filio
 Hernebaldi .
 
 
---- chartularyofcist00cist_bw_page49.png ---
+
 CARTE MONIALIUM DE CALDSTREM
 
 ~
@@ -1759,7 +1737,7 @@ SLAU IN
 10. Sciant omnes tam presentes quam futuri quod ego. Ran-
 
 
---- chartularyofcist00cist_bw_page50.png ---
+
 8 CARTE MONIALIUM DE CALDSTREM.
 
 dulfus de Haultan. concessi et dedi et hac mea presenti carta
@@ -1822,7 +1800,7 @@ Walteri dictus Edger eternam in Domino salutem , Nouerit uni-
 
 
 
---- chartularyofcist00cist_bw_page51.png ---
+
 CARTE MONIALIUM DE CALDSTREM. “
 
 uersitas vestra me pro me et heredibus meiis firmiter teneri et
@@ -1880,7 +1858,7 @@ Domino sempiternam . Nouerit vniue
 jus meum quod habui vell habere potui infra villam de Laynall Fol. 10,
 
 
---- chartularyofcist00cist_bw_page52.png ---
+
 10 CARTE MONIALIUM DE CALDSTREM.
 
 inenciis et
@@ -1931,7 +1909,7 @@ Fol. 1. Johanne Alexandro fratribus nosiris . Magistro Henrico de le
 Monchtun rectore ecclesie de Duns . Mauricio clerico et aliis.
 
 
---- chartularyofcist00cist_bw_page53.png ---
+
 CARTE MONJALIUM DE CALD: IL
 
 Tiweipiunt Carte Lerravum et Keclesie de Hersil.
@@ -1992,7 +1970,7 @@ pertinenciis sine aliquo retenemento illam scilieet carucatam
 
 
 
---- chartularyofcist00cist_bw_page54.png ---
+
 Fol, 13.
 
 12 os
@@ -2074,7 +2052,7 @@ Comiti
 mei. et Willehni filii sui. testantur ct comfirmant et sicut aliqua
 
 
---- chartularyofcist00cist_bw_page55.png ---
+
 CARTE MONIALIUM DE CALDSTR
 
 elimosina in regno Scocie liberius quiecius honorificencius et
@@ -2148,7 +2126,7 @@ apud Her: anstrali parte pontis
 
 
 
---- chartularyofcist00cist_bw_page56.png ---
+
 lt CARTE MONIALIUM DE CALDS'
 
 REM.
@@ -2203,7 +2181,7 @@ Domino P. Eger. Domino Alano de Ormistun. Dominis P. de
 
 
 
---- chartularyofcist00cist_bw_page57.png ---
+
 CARTE MONIALIUM DE CALDSTRE 15
 
 Sympring. Johanne de Millyaus. Willelmo de Llaynall. Adam
@@ -2256,7 +2234,7 @@ Fol. 16.
 
 
 
---- chartularyofcist00cist_bw_page58.png ---
+
 Pol. 17,
 
 Pol, 18.
@@ -2327,7 +2305,7 @@ peti defendemus . In euius rei testimonium presenti scripto
 sigillum meum apposui hiis testibus Domino Galfrido rectore
 
 
---- chartularyofcist00cist_bw_page59.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 17
 
 de Lintun. Domino Willelmo vicario de Hastynden . Petro de
@@ -2374,7 +2352,7 @@ Fol. 1
 
 
 
---- chartularyofcist00cist_bw_page60.png ---
+
 18 CARTE MONIALIUM DE CALDSTREM.
 
 quam super dicta terra scilicet elimosinata habent
@@ -2433,7 +2411,7 @@ Patricio fratre comitis. R. de Merley. Patricio filio Adgary .
 
 
 
---- chartularyofcist00cist_bw_page61.png ---
+
 CARTE MONIALIUM DE CALDSTR 19
 
 Adam de Edynton . Henrico clerico nepote abbatis de Striuellin.
@@ -2485,7 +2463,7 @@ Fol.
 
 
 
---- chartularyofcist00cist_bw_page62.png ---
+
 20 CARTE MONIALIUM DE CALDSTREM.
 
 autem hee connencio et hee confirmacio firma et inperpetuum
@@ -2532,7 +2510,7 @@ CONFIRMACIO CARTE PRECEDENTIS.
 teras visuris vel audituris Patricius filius Domini Comitis de Dun-
 
 
---- chartularyofcist00cist_bw_page63.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 21
 
 salutem in Domino. Nouerit vniuersitas vestra me concessh
@@ -2583,7 +2561,7 @@ itas vestra me dedisse con- Fol.
 
 
 
---- chartularyofcist00cist_bw_page64.png ---
+
 cAK
 
 MONIALIUM DE CALDSTR
@@ -2639,7 +2617,7 @@ warandizabimus acquietabimus et inperpetiwm defendemus.
 In cuius rei testimonium presenti sigillam meum apposui hiis
 
 
---- chartularyofcist00cist_bw_page65.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 25
 
 stibus Waltero filio mi . Thoma filio cius, Alanus de Ed-
@@ -2697,7 +2675,7 @@ QUEMDAM W. CAPILLANUM.
 34. Sciant omnes tam presentes quam futuri quod ego Walterus
 
 
---- chartularyofcist00cist_bw_page66.png ---
+
 Fol.
 
 24 CARTE MONIALIUM DE CALDSTREM.
@@ -2744,7 +2722,7 @@ senti carta confirmasse Deo et Sancte Marie et conuentui de
 Caldstrem ibidem Deo et Sancte Marie seruienti totam com-
 
 
---- chartularyofcist00cist_bw_page67.png ---
+
 CARTE MONIALIUM DE CALDSIREM
 
 munem pasturain de Thornidiche ad x1 equas et earum sequelas
@@ -2799,7 +2777,7 @@ Fol. 30.
 Pol. 31.
 
 
---- chartularyofcist00cist_bw_page68.png ---
+
 Fol. 32.
 
 Fol. 33.
@@ -2871,7 +2849,7 @@ s cum alijs octog
 mee et patris mei et matris
 
 
---- chartularyofcist00cist_bw_page69.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 27
 
 monialibus terram illam que jacet inter fossatum exitus ville
@@ -2931,7 +2909,7 @@ pasturam de Thornidich communi pastura de Thornidich com-
 
 
 
---- chartularyofcist00cist_bw_page70.png ---
+
 Fol. 36,
 
 28 CARTE MONIALIUM DE CALDSTREM.
@@ -2987,7 +2965,7 @@ TreEM (/) CARTA HEG CUM CARTA PRECEDENTE.
 39. Oumibus Sancte Matris Ecclesie filijs et fidelibus ad quos
 
 
---- chartularyofcist00cist_bw_page71.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 29
 
 presens scriptum pernenerit Thomas de Gordun salutem Nouerit
@@ -3048,7 +3026,7 @@ Fol. 87.
 Fol. 38,
 
 
---- chartularyofcist00cist_bw_page72.png ---
+
 Pol. 89.
 
 30 CARTE MONIALIUM DE CALDSTREM.
@@ -3116,7 +3094,7 @@ Patricio filio Walteri. Domino Roberto de Nesbit . Domino
 
 
 
---- chartularyofcist00cist_bw_page73.png ---
+
 CARTE MONIALIUM DE CALDSTREM.
 
 Roherto de Polwort . Roberto de Pinkerton. Waltero de Dev-
@@ -3174,7 +3152,7 @@ Domino Roberto de Nesbit .cum multis alijs in carta nominat
 rtm ~meorum F
 
 
---- chartularyofcist00cist_bw_page74.png ---
+
 Fol. 41.
 
 32 CARTE MONIALIUM DE CALDSTREM.
@@ -3229,7 +3207,7 @@ bus patris mei et matris mee et antecessorum et successorum
 meorum tam integre et plenarie lihere quiete et honorifice sicut
 
 
---- chartularyofcist00cist_bw_page75.png ---
+
 CARTE MONIALIUM DE CALDSTREM. :
 
 aliqua elimosina liberius et melius dari potest. Hiis  testibus .
@@ -3273,7 +3251,7 @@ Cc
 Fol. 43,
 
 
---- chartularyofcist00cist_bw_page76.png ---
+
 Pol. 44.
 
 Sb CARTE MONIALIUM DE CALDSTREM,
@@ -3320,7 +3298,7 @@ de Bereunic salutem in Domino. Nonerit vninersitas vestra me
 divine pietatis intuitn et pro salute anime et antecessorum et
 
 
---- chartularyofcist00cist_bw_page77.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 35
 
 successorum meorum dedisse concessisse et hac presenti carta
@@ -3364,7 +3342,7 @@ tinencijs sicut liberum burcagium domini regis Reddendo inde Fol. 46,
 
 
 
---- chartularyofcist00cist_bw_page78.png ---
+
 Fol. 47,
 
 36 CARTE MONIALIUM DE CALDSTREM.
@@ -3413,7 +3391,7 @@ Willelinus de Salle dedi concessi et hac presenti carta confirmaui
 
 
 
---- chartularyofcist00cist_bw_page79.png ---
+
 CARTE MONIALIUM DE CALDSTREM, oT
 
 Deo et Saucte Marie de Caldstrem ct monialibus ibidem Deo et
@@ -3471,7 +3449,7 @@ stabilis permaneat inposteram Ego Johannes presentem cartam
 Fol. 48.
 
 
---- chartularyofcist00cist_bw_page80.png ---
+
 Fol. 49.
 
 58 CARTE MONIALIUM DE CALDSTREM.
@@ -3526,7 +3504,7 @@ de Almewych salutem
 
 
 
---- chartularyofcist00cist_bw_page81.png ---
+
 CARTE MONIALIUM DE CALDSTR
 
 39
@@ -3580,7 +3558,7 @@ Fol. 50.
 Fol. 51.
 
 
---- chartularyofcist00cist_bw_page82.png ---
+
 40 CARTE MONIALIUM DE CALDSTREM.
 
 fuerit credentes simplici verbo magistri domus vel  priorisse
@@ -3632,7 +3610,7 @@ ci
 
 
 
---- chartularyofcist00cist_bw_page83.png ---
+
 CARTE MONIALIUM DE CALDSTREM, 41
 
 Apud . . . . vieesimo primo die Junii anno regni nostri
@@ -3699,7 +3677,7 @@ au
 nomine earundem com-
 
 
---- chartularyofcist00cist_bw_page84.png ---
+
 42 CARTE MONIALIUM DE CALDSTREM.
 
 morantibus molestiam seu grauaminem inferre presumant Nos
@@ -3745,7 +3723,7 @@ executuris
 
 
 
---- chartularyofcist00cist_bw_page85.png ---
+
 CARTE MONIALIUM DE CALDSTREM. 45
 
 kil or punding for ye said land bot gif I ye said John do it in
@@ -3792,7 +3770,7 @@ Cartas . euidencias . munimenta . donaciones .concessiones . et con-
 Pol, 55.
 
 
---- chartularyofcist00cist_bw_page86.png ---
+
 44 CARTE MONIALIUM DE CALDSTREM.
 
 tirmaciones. mihi notario infraseripto in suo capitulo euidentes
@@ -3833,7 +3811,7 @@ Nosters and v Awe Maryas and a owrd. and say yis oryson
 
 
 
---- chartularyofcist00cist_bw_page87.png ---
+
 45
 
 CARTE MONIALIUM DE CALDSTI
@@ -3850,7 +3828,7 @@ be gyn na waas na na ress na wirk na werk na eit na geess, for
 guha sa doiss leper beiss yen saiss ye buk and de and feiss.
 
 
---- chartularyofcist00cist_bw_page88.png ---
+
 APPENDIX
 
 oF
@@ -3886,7 +3864,7 @@ E
 
 
 
---- chartularyofcist00cist_bw_page89.png ---
+
 APPENDIX OF ORIGINAL CHARTERS, PTC. 47
 
 IT. Vuiversis Sancte Matris Kcclesic tiliis et fidelibus tam pre-
@@ -3937,7 +3915,7 @@ ipsos vexare presumat iniuste super nostram plenariam for’
 turam. Mandamus insuper et firmiter precipimus justiciariis ,
 
 
---- chartularyofcist00cist_bw_page90.png ---
+
 48 APPENDIX OF ORIGINAL CHARTERS, ETC.
 
 vieecomitibus . prepositis et eornm balliuis ad quos presentes
@@ -3993,7 +3971,7 @@ defendemus et acquietabimus. Subieci insuper me et heredes
 meos iurisdictioni archidiaconi Thenidalie et decani einsdem loci
 
 
---- chartularyofcist00cist_bw_page91.png ---
+
 c. 49
 
 APE
@@ -4066,7 +4044,7 @@ magno camerario nostro Patricio Domino le Grahame, Andrea
 D
 
 
---- chartularyofcist00cist_bw_page92.png ---
+
 50 APPENDIX OF ORIGINAL CHARTERS, ETC.
 
 Domino le Gray, Willelmo de Morauia de Tulibardyn et
@@ -4123,7 +4101,7 @@ territoris de Lanell infra comitatum Merchie et vicecomitatum
 nostram de Berwik ac de mandato nostro visam leetam in-
 
 
---- chartularyofcist00cist_bw_page93.png ---
+
 APPENDIX OF “ORIGINAL CHARTERS, ETC. 51
 
 spectam et diligenter examinatam sanam integram non rasam
@@ -4186,7 +4164,7 @@ ingulis
 
 
 
---- chartularyofcist00cist_bw_page94.png ---
+
 52 APPENDIX OF ORIG
 
 NAL CHARTERS, ETC.
@@ -4240,7 +4218,7 @@ contentas in omnibus suis punctis et articulis conditionibus et
 
 
 
---- chartularyofcist00cist_bw_page95.png ---
+
 APPENDIX OF ORIGINAL CHARTERS, ETC. 53
 
 modis ac cireumstancijs suis quibuscunqne forma pariter et
@@ -4294,7 +4272,7 @@ nostrum apponi precepimus.Testibus Reuerendis in Christo
 patribus . Roberto episcopo Glasgnensi . Willelmo episcopo Aher-
 
 
---- chartularyofcist00cist_bw_page96.png ---
+
 54 APPENDIX OF ORIGINAL CHARTERS, ETC.
 
 donensi . dilectis consanguineis nostris Colino Comite de Ergile.
@@ -4339,7 +4317,7 @@ alienare et hac presenti earta mea confirmare pro perpetuo
 
 
 
---- chartularyofcist00cist_bw_page97.png ---
+
 x
 
 x
@@ -4394,7 +4372,7 @@ brasinis fabrilibus bruerijs et genestis siluis nemori-
 
 
 
---- chartularyofcist00cist_bw_page98.png ---
+
 56 APPENDIX OF ORIGINAL CHARTERS, Ee?
 
 dendo inde annnatim dicta priorissa et conuentus dicti mon-
@@ -4459,7 +4437,7 @@ simo secundo,—Zb., hook xxv., No,
 
 
 
---- chartularyofcist00cist_bw_page99.png ---
+
 APPENDIX OF ORIGINAL CHARTERS, ETC. 57
 
 VUL A lettre maid to he priores and conuent of Caldstreme,
@@ -4512,7 +4490,7 @@ ak of the landis of Hirsale and Gradane, with the pertinents
 
 
 
---- chartularyofcist00cist_bw_page100.png ---
+
 58 APPENDIX OF ORIGINAL CHARTERS, ETC.
 
 liand within the earldome of Merch and sherefdome of Beruik,
@@ -4526,7 +4504,7 @@ forsaid.—Subseriptum per dominum regem.—Zb., vol. iv., fol.
 163).
 
 
---- chartularyofcist00cist_bw_page101.png ---
+
 ABSTRACT OF CHARTERS.
 
 1. Patrick, Earl of Dunbar, for the safety of his son] and that
@@ -4562,7 +4540,7 @@ which his father Norman gave to Richard’s mother, Amabilis,
 
 
 
---- chartularyofcist00cist_bw_page102.png ---
+
 60 ABSTRACT OF CHARTERS.
 
 in dower, but which Richard gives to the nuns in perpetual
@@ -4621,7 +4599,7 @@ of Cecilia his spouse, and the souls of his ancestors and sue-
 k, Earl of Dunbar, for the safety of his soul, and that:
 
 
---- chartularyofcist00cist_bw_page103.png ---
+
 ABSTRACT OF CHARTERS. 61
 
 cessors, has granted and confirmed to God, and the Chureh of
@@ -4680,7 +4658,7 @@ Glasgow, and their officials, archdeacons, and deans for the
 master and mus, although he strictly sul
 
 
---- chartularyofcist00cist_bw_page104.png ---
+
 62 ABSTRACT OF CHARTERS.
 
 time being, any one or two of whom chosen by the master,
@@ -4724,7 +4702,7 @@ selves more fully bear. Appeuds his seal. Among the witnesses
 
 
 
---- chartularyofcist00cist_bw_page105.png ---
+
 ABSTRACT OF CHARTERS. 63,
 
 are “ P. de Dunbar,” the son, and Sirs John and Alexander, the
@@ -4768,7 +4746,7 @@ Patrick, his uncle, and William, his [uncle’s] son, witness and
 confirm, ete. One of the witnesses is “ Fergus, son of the Earl.”
 
 
---- chartularyofcist00cist_bw_page106.png ---
+
 O4 ABSTRACT OF CHARTERS.
 
 18. William, son of Patrick, to all the faithful of Christ, greet-
@@ -4822,7 +4800,7 @@ ter, greeting. Has granted and confirmed to the nuns of
 
 
 
---- chartularyofcist00cist_bw_page107.png ---
+
 Se
 
 ABSTRACT OF CHARTERS. 6.
@@ -4871,7 +4849,7 @@ and his heirs have quit-claimed to the said nuns the foresaid
 E
 
 
---- chartularyofcist00cist_bw_page108.png ---
+
 66 ABSTRACT OF CHARTERS.
 
 land, from that place where Heselihow falls into “ Dvi” towards
@@ -4926,7 +4904,7 @@ Appends his seal.
 ice, custom, and secular demand, one
 
 
---- chartularyofcist00cist_bw_page109.png ---
+
 ABSTRACT OF CHARTERS. 67
 
 acre and a half of land in the west part of his croft, with the
@@ -4970,7 +4948,7 @@ But if the said “ beasts” or swine shall by chance have strayed
 beyond the bounds of the said grazing of Thornidicke towards the
 
 
---- chartularyofcist00cist_bw_page110.png ---
+
 68 ABSTRACT OF CHARTERS.
 
 grazing of Gordon, no fine shall be demanded therefor. But for
@@ -5018,7 +4996,7 @@ munificent benefactors to the house of Coldstream.
 
 
 
---- chartularyofcist00cist_bw_page111.png ---
+
 ABSTRACT OF CHARTERS, 69
 
 uid animals by chance overleap the bounds of Thornidich
@@ -5070,7 +5048,7 @@ burn repeats the grant of same lands.
 Church of St Mary of Bastynden, fifteen acres of land, eleven of
 
 
---- chartularyofcist00cist_bw_page112.png ---
+
 70 ABSTRACT OF CHARTERS.
 
 which lie in the field of Bakestanesden, and four acres at Hare-
@@ -5117,7 +5095,7 @@ wife, have quit-claimed all their right of service and suit of
 court, and all other demands from the prioress and convent of
 
 
---- chartularyofcist00cist_bw_page113.png ---
+
 ABSTRACT OF CHARTE 71
 
 Caldstrem or their assigns, in the territory of Bastynden, and
@@ -5165,7 +5143,7 @@ saving the king’s, viz., six pennies. Among the witnesses are
 of Caldstrem and the nuns, 20s. of silver, to be annually uplifted
 
 
---- chartularyofcist00cist_bw_page114.png ---
+
 72 ABSTRACT OF CHARTERS.
 
 from a certain land in the street of the shoemakers for ever,
@@ -5212,7 +5190,7 @@ Heury IL. Sce Hodgson’ “ Nerthumberland,” vol. ti, p. 294.
 
 
 
---- chartularyofcist00cist_bw_page115.png ---
+
 ABSTRACT OF CHARTERS, 73
 
 may remain for the use of the said honse for ever. And should
@@ -5263,7 +5241,7 @@ Church of St Mary and the nuns of Caldstrem.
 59. John Swinton of that ilk lets to the prioress and conveut
 
 
---- chartularyofcist00cist_bw_page116.png ---
+
 74 ABSTRACT OF CHARTERS.
 
 of Caldstrem the land of Little Swynton for ten years. The
@@ -5305,7 +5283,7 @@ many of his countrymen, in the disastrons battle of Vernenil.
 
 
 
---- chartularyofcist00cist_bw_page117.png ---
+
 ABSTRACT OF APPENDIX,
 
 ~
@@ -5353,7 +5331,7 @@ he finally retired from his see to France, and died there in 1268.
 
 
 
---- chartularyofcist00cist_bw_page118.png ---
+
 76 ABSTRACT OF APPENDIX.
 
 Schoriswode, Bishop of Brechin, The great seal is appended,
@@ -5398,7 +5376,7 @@ executed at Stirling, 20th July, twenty-second year of his reign
 
 
 
---- chartularyofcist00cist_bw_page119.png ---
+
 SUPPLEMENT TO PREFACE
 
 ‘ESTIMATE OF THE DAMAGE DONE BY THE ENGLISH ARMY AT
@@ -5454,7 +5432,7 @@ ana
 
 
 
---- chartularyofcist00cist_bw_page120.png ---
+
 78 SUPPLEMENT TO PREFACE.
 
 Item, ceo fete a remembrer ke le pomer de Caldestrem solait
@@ -5516,7 +5494,7 @@ the History of Scotland,” by the Rev. Joseph Stevenson, 1870, vol. ii., pp. 32
 
 
 
---- chartularyofcist00cist_bw_page121.png ---
+
 SUPPLEMENT TO PREFACE, 79
 
 Walter, master of the same house, brothers Adam, Alan, Alan,
@@ -5569,7 +5547,7 @@ county, has caused to be delivered to him, price of each 8d. ;
 and 16 oxen, price of each 3¢., of the 40 oxen which he caused
 
 
---- chartularyofcist00cist_bw_page122.png ---
+
 80 SUPPLEMENT TO PREFACE.
 
 also to come from the same county, and the other 24 oxen are
@@ -5613,7 +5591,7 @@ suman seacearii nostri Berewyci de undecim libris nobis ad
 idem seacearium reddendis ponatis in respectum usque ad
 
 
---- chartularyofcist00cist_bw_page123.png ---
+
 SUPPLEMENT TO PREFACE. 81
 
 festum Pentecostes proxime futurum. Et distri
@@ -5672,7 +5650,7 @@ istunt et omnibus temporibus prompti fuer-
 F
 
 
---- chartularyofcist00cist_bw_page124.png ---
+
 82 SUPPLEMENT TO PREFACE.
 
 unt ad recipiendum et honorabiliter tractandum tam ambassia-
@@ -5717,7 +5695,7 @@ pertinenciis suis quibuscunque tam non nominatis quam nom-
 inatis tam snb terra quam supra terram procul et prope ad
 
 
---- chartularyofcist00cist_bw_page125.png ---
+
 SUPPLEMENT TO PREFACE. 83
 
 predictas terras cum pertinenciis spectantibus seu juste spectare
@@ -5771,7 +5749,7 @@ decreuerunt quod vitra mensem priorisse non vacet ecclesia
 regularis, Ea propter recolende memorie Isobella quondam
 
 
---- chartularyofcist00cist_bw_page126.png ---
+
 84 SUPPLEMENT TO PREFACE.
 
 priorissa supradicti monasterii vigesimo sexto die mensis
@@ -5834,7 +5812,7 @@ tulum et conuentum pro tempore representantes ad hoe in domo
 capitulari prefati monasterii ad sonum campane prout moris est
 
 
---- chartularyofcist00cist_bw_page127.png ---
+
 SUPPLEMENT TO PREFACE. 85
 
 omnes insimul congregate et de electionis negotio mature trac-
@@ -5896,7 +5874,7 @@ nis Marie sub quortm vocabulis dictum monasterium ¢
 
 
 
---- chartularyofcist00cist_bw_page128.png ---
+
 86 SUPPLEMENT TO PREFACE,
 
 gaudentibus et vocibus altis ympnum Dei gloriosum Te Deum
@@ -5956,7 +5934,7 @@ cireiter,
 Nomina monialium hee sunt dompna Isobella Ruthirfurd sup-
 
 
---- chartularyofcist00cist_bw_page129.png ---
+
 SUPPLEMENT TO PREFACE, 87
 
 priorissa dompna Katrina Flemyng, Joneta Broun, Mariota
@@ -5971,7 +5949,7 @@ oficial of St Andrews, in the archdeaconry of Lothian.”  Pre-
 served in the Advocates Library, 0%. 346) waco
 
 
---- chartularyofcist00cist_bw_page130.png ---
+
 INDEX.
 
 PERDPEN, Thomas, Bishop of, 50,
@@ -6085,7 +6063,7 @@ ningane,
 the provost, 36.
 
 
---- chartularyofcist00cist_bw_page131.png ---
+
 INDEX,
 
 Berwick (Bereunic, Berewye, Berewyk
@@ -6232,7 +6210,7 @@ Walter of, 7, 15, 22, 23, 31, 42, 49.
 
 
 
---- chartularyofcist00cist_bw_page132.png ---
+
 90
 
 Derchester, Richard, son of Hugh the |
@@ -6378,7 +6356,7 @@ oT,
 
 
 
---- chartularyofcist00cist_bw_page133.png ---
+
 INDEX. 91
 
 Edward I. of England, ix, »i
@@ -6483,7 +6461,7 @@ Peter of, 12
 
 
 
---- chartularyofcist00cist_bw_page134.png ---
+
 92 INDEX.
 
 Henry, son of Cunan, 19. Hume, Alexander, of that ilk, great
@@ -6586,7 +6564,7 @@ Walter
 
 
 
---- chartularyofcist00cist_bw_page135.png ---
+
 INDEX.
 
 Law, Sir Andrew, priest, 5:
@@ -6761,7 +6739,7 @@ Norham, castle of, xxvi, xxvii.
 
 
 
---- chartularyofcist00cist_bw_page136.png ---
+
 o4 INDEX.
 
 Norman —see Laynal. Radulf, Mr, Archdeacon of St Andrews,
@@ -6852,7 +6830,7 @@ Sir Thomas, chaplain of, 40,
 R,, the archdeacon's chaplain, 46.
 
 
---- chartularyofcist00cist_bw_page137.png ---
+
 INDEX.
 
 Seyrnesidle—see Chirnsyde.
@@ -7031,7 +7009,7 @@ of, 17, 19, 20.
 
 
 
---- chartularyofcist00cist_bw_page138.png ---
+
 96
 
 Watsoun, William, author of ‘Historie
@@ -7094,20 +7072,20 @@ Ysouda, danghter of Wido the glass-
 MFarlane & Erskine, Printers, Edinburgh
 
 
---- chartularyofcist00cist_bw_page139.png ---
 
 
---- chartularyofcist00cist_bw_page140.png ---
 
 
---- chartularyofcist00cist_bw_page141.png ---
 
 
---- chartularyofcist00cist_bw_page142.png ---
 
 
---- chartularyofcist00cist_bw_page143.png ---
 
 
---- chartularyofcist00cist_bw_page144.png ---
+
+
+
+
+
+
 
