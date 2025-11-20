@@ -26,14 +26,14 @@ if missing:
 
 pdf_dir = Path('/Users/ceciliabarnard/Desktop/Cistercianism/pdfs')
 output_dir = Path('/Users/ceciliabarnard/Desktop/Cistercianism/pdfs/converted_images')
-output_dir.mkdir(exist_ok=True)
+output_dir.mkdir(exist_ok=True, parents=True)
 
 
 import pytesseract
 from collections import defaultdict
 
 results_dir = Path('/Users/ceciliabarnard/Cistercianism/results')
-results_dir.mkdir(exist_ok=True)
+results_dir.mkdir(exist_ok=True, parents=True)
 
 for pdf_path in pdf_dir.glob('*.pdf'):
     try:
@@ -45,7 +45,7 @@ for pdf_path in pdf_dir.glob('*.pdf'):
         # Step 2: Convert images to grayscale
         pdf_base = pdf_path.stem
         grayscale_dir = Path('/Users/ceciliabarnard/Desktop/Cistercianism/grayscale_images')
-        grayscale_dir.mkdir(exist_ok=True)
+        grayscale_dir.mkdir(exist_ok=True, parents=True)
         page_texts = []
         for i, img in enumerate(images):
             gray_img = img.convert('L')

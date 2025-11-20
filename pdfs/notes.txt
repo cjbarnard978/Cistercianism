@@ -1,0 +1,6 @@
+Error message: filenotfound 
+    Updated script to ensure that missing directories will be created
+"Your script is updated: all mkdir calls now use parents=True, so parent directories will be created automatically if missing. This will prevent the FileNotFoundError you encountered."
+~Copilot
+
+
